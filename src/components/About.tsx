@@ -32,13 +32,9 @@ const About = () => {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-foreground mb-6">About Me</h2>
             <p className="text-xl text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-              I'm a DevOps Engineer helping clients, startups and businesses deploy, automate, 
-              and optimize applications using modern tools like Docker, Kubernetes, and AWS. 
-              I deliver scalable, reliable solutions that speed up releases, reduce costs, 
-              with a strong passion for Cloud and DevOps technologies. Currently training in 
-              the DevOps track at DEPI (Digital Egypt Pioneers Initiative), focusing on 
-              automation, cloud services, and system management.
+               “I’m a DevOps Engineer helping clients and businesses deploy, automate, and optimize applications with tools like Docker, Kubernetes, and AWS. I deliver scalable and reliable solutions that speed up releases and cut costs
             </p>
+
           </div>
 
           <div className="grid md:grid-cols-2 gap-8 mb-12">
