@@ -1,24 +1,20 @@
-<<<<<<< HEAD
-# portofolio
-my portofolio
-=======
 # Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/dbab1c61-5ff4-4ffb-a1a2-5fa6243d8b57
+**URL**: [https://shadymh10.github.io/portofolio](https://shadymh10.github.io/portofolio)
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+### Use Lovable
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/dbab1c61-5ff4-4ffb-a1a2-5fa6243d8b57) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+### Use your preferred IDE
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -26,27 +22,14 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
+### Edit a file directly in GitHub
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+### Use GitHub Codespaces
 
 - Navigate to the main page of your repository.
 - Click on the "Code" button (green button) near the top right.
@@ -66,7 +49,10 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/dbab1c61-5ff4-4ffb-a1a2-5fa6243d8b57) and click on Share -> Publish.
+Simply run:
+
+
+This script will build and publish your project to GitHub Pages.
 
 ## Can I connect a custom domain to my Lovable project?
 
@@ -75,4 +61,3 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
->>>>>>> cdf0ebf ( my job_ portofolio)
